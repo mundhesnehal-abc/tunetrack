@@ -1,0 +1,10 @@
+
+{
+  "name": "tunetrack",
+  "version": "1.0.0",
+  "description": "Music Playlist Manager using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
